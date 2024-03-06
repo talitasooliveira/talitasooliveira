@@ -9,7 +9,7 @@ Hello, I'm Talita! With extensive experience in project management, I am a well-
 ## Data Science Projects
 Here are some of the projects I've worked on during my Data Science bootcamp:
 
-- [Project 1](https://github.com/talitasooliveira/Data-Science)
+- [Repository 1](https://github.com/talitasooliveira/Data-Science)
 
 Feel free to explore more projects on my [GitHub profile](https://github.com/talitasooliveira).
 
